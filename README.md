@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am highly interested in Econometrics and Data Science. I have strong practical experience in developing and analyzing quantitative models. I am proficient in Python (NumPy, Pandas), SQL (Microsoft SQL Server, MySQL, PostgreSQL), MATLAB, IBM SPSS, EViews, and Stata. I am also currently improving my C++ skills.
+I am highly interested in Econometrics and Data Science. I have strong practical experience in developing and analyzing quantitative models. I am proficient in Python (NumPy, Pandas), SQL (Microsoft SQL Server, MySQL, PostgreSQL), IBM SPSS, EViews, and Stata. I am also currently improving my C++ skills.
 
 
 ## 🌐 Socials:
