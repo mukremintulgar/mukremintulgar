@@ -1,5 +1,5 @@
 # About Me:
-I'm passionate about Econometrics and Data Science, with strong hands-on experience in building and analyzing quantitative models — from data modeling and forecasting to machine learning and risk models. I'm proficient in Python, R, SQL, IBM SPSS, EViews, and Stata, and I'm currently sharpening my C++ skills.
+I'm passionate about Econometrics and Data Science, with strong hands-on experience in building and analyzing quantitative models — from data modeling and forecasting to machine learning and risk models. I'm proficient in Python, R, SQL, IBM SPSS, EViews, and Stata. 
 
 
 ## 🌐 Socials:
