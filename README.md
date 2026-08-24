@@ -1,5 +1,5 @@
 # About Me:
-I'm passionate about Econometrics and Data Science, with strong hands-on experience in building and analysing quantitative models — from data modelling and forecasting to machine learning and risk models. I'm proficient in Python, R, SQL, VBA. 
+I'm passionate about Econometrics and Data Science, with strong hands-on experience in building and analysing quantitative models — from data modelling and forecasting to machine learning and risk models.Proficient in data science tools including Python, R, SQL, and VBA, with strong visualization skills in Power BI and Tableau, and experience in CI/CD workflows using Git.
 
 
 ## 🌐 Socials:
